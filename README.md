@@ -37,16 +37,14 @@ Data validation techniques to prevent errors in meal calculations
  The analytical procedures and visualisation methods used to create and display meal combinations are covered in this section.
  Important elements consist of:
  Algorithm for Calculating Calories:
- Creates balanced meal options within the designated calorie limit by methodically choosing food components.
- guarantees diversity and nutritional equilibrium among various meal types.
+ Creates balanced meal options within the designated calorie limit by methodically choosing food components.Guarantees diversity and nutritional equilibrium among various 
+ meal types.
  Processing and Optimising Data:
- Using effective algorithms to produce the best meal combinations
- Taking into account the dietary requirements and preferences of the customer (future upgrades)
+ Using effective algorithms to produce the best meal combinations.Taking into account the dietary requirements and preferences of the customer (future upgrades)
  Output & Visualisation:
- Meal combinations are shown in an easy-to-use manner.
- Possible graphical depiction of the mix of macronutrients and the distribution of calories
+ Meal combinations are shown in an easy-to-use manner.Possible graphical depiction of the mix of macronutrients and the distribution of calories
  
-## A .gitignore file and a license
+ ## A .gitignore file and a license
 .DS_Store 
 BSD 3-Clause License
 
