@@ -34,10 +34,10 @@ Regular updates to keep nutritional information accurate
 Data validation techniques to prevent errors in meal calculations
 
 3. Plan for data analysis and visualisation (Written by Sania Bandekar)
- The analytical procedures and visualisation methods used to create and display meal combinations are covered in this section.  Important elements consist of:
+ The analytical procedures and visualisation methods used to create and display meal combinations are covered in this section.
+ Important elements consist of:
  Algorithm for Calculating Calories:
-
- creates balanced meal options within the designated calorie limit by methodically choosing food components.
+ Creates balanced meal options within the designated calorie limit by methodically choosing food components.
  guarantees diversity and nutritional equilibrium among various meal types.
  Processing and Optimising Data:
  Using effective algorithms to produce the best meal combinations
